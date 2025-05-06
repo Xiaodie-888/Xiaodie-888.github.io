@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '彭心冉',
-  tagline: '彭心冉是大美女',
+  tagline: '好好好',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
